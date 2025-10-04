@@ -24,3 +24,4 @@ Notas adicionales
 Aunque después de la inserción de datos se puede ejecutar el resto del código en el orden que se desee, el flujo sugerido asegura una configuración más clara y libre de errores.
 Cada archivo está documentado y puede revisarse individualmente para su comprensión.
 Por favor revisar el pdf en el que se informa de manera mas conreta todo el proyecto.
+Agregue el Codigo completo como un .sql aparte por si desean ejecutarlo de un click solo tomar en cuenta los archivos CSV.
