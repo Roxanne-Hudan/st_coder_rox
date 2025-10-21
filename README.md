@@ -7,8 +7,6 @@ Para garantizar la correcta carga y funcionamiento de la base de datos, se sugie
 
 Schema ---> Crear la estructura de las tablas de la base de datos.
 
-Archivos CSV ---> Importar los datos iniciales de clientes, técnicos y equipos.
-
 Inserción de datos ---> Ejecutar las sentencias INSERT INTO adicionales para poblar las tablas con información base.
 
 Vistas ---> Crear las vistas definidas para facilitar la consulta de datos.
@@ -21,7 +19,5 @@ Triggers ---> Finalmente, activar los triggers que aseguran la integridad y vali
 
 
 Notas adicionales
-Aunque después de la inserción de datos se puede ejecutar el resto del código en el orden que se desee, el flujo sugerido asegura una configuración más clara y libre de errores.
-Cada archivo está documentado y puede revisarse individualmente para su comprensión.
 Por favor revisar el pdf en el que se informa de manera mas conreta todo el proyecto.
-Agregue el Codigo completo como un .sql aparte por si desean ejecutarlo de un click solo tomar en cuenta los archivos CSV.
+Agregue el Codigo completo como un .sql aparte por si desean ejecutarlo de un click.
